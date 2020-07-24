@@ -1,0 +1,96 @@
+D:\Lam phan mem\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Lam phan mem\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Properties.Resources.resources
+D:\Lam phan mem\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Lam phan mem\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Dangnhap.resources
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Ketnoi.resources
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Main.resources
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Calam.resources
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Chatlieu.resources
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Congviec.resources
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_CTHDB.resources
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_CTHDN.resources
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Donvitinh.resources
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Hanghoa.resources
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_HDB.resources
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_HDN.resources
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Khachhang.resources
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Loaihang.resources
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_NCC.resources
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Nhanvien.resources
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Nhomhang.resources
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_TK.resources
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_TKHDN.resources
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Properties.Resources.resources
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.csproj.ResolveComReference.cache
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\bin\Debug\QuanLyBanHangDienTu.exe
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\bin\Debug\QuanLyBanHangDienTu.pdb
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.exe
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.pdb
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Nuocsx.resources
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_BC_NCC.resources
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_BC_NV.resources
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_BC_Quy.resources
+E:\DoAnC#Tien\Moi\QuanLyBanHangDienTu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Splash_Screen.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.csproj.ResolveComReference.cache
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.exe
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.pdb
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\bin\Debug\QuanLyBanHangDienTu.exe
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\bin\Debug\QuanLyBanHangDienTu.pdb
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_BC_NCC.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_BC_NV.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_BC_Quy.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Dangnhap.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Ketnoi.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Main.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Nuocsx.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Calam.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Chatlieu.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Congviec.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_CTHDB.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_CTHDN.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Donvitinh.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Hanghoa.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_HDB.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_HDN.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Khachhang.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Loaihang.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_NCC.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Nhanvien.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Nhomhang.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Splash_Screen.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_TK.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_TKHDN.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Properties.Resources.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\banhangdientu\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.csproj.GenerateResource.Cache
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.csproj.ResolveComReference.cache
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.exe
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_BC_NCC.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_BC_NV.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_BC_Quy.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Dangnhap.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Ketnoi.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Main.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Nuocsx.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Calam.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Chatlieu.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Congviec.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_CTHDB.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_CTHDN.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Donvitinh.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Hanghoa.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_HDB.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_HDN.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Khachhang.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Loaihang.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_NCC.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Nhanvien.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Nhomhang.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_Splash_Screen.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_TK.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Presentation.fr_TKHDN.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.Properties.Resources.resources
+F:\Users\1178\Documents\Visual Studio 2010\Projects\BTLLTNC\QuanLyBanHangDienTu\QuanLyBanHangDienTu\obj\x86\Debug\QuanLyBanHangDienTu.csproj.GenerateResource.Cache
